@@ -1,0 +1,3 @@
+C:/Users/jd_19/CLionProjects/MrG/cmake-build-debug/CMakeFiles/MrG.dir
+C:/Users/jd_19/CLionProjects/MrG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jd_19/CLionProjects/MrG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
